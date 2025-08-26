@@ -17,8 +17,7 @@
  # 👋 Olá, eu sou Luiz Eduardo  
 
 🎓 Estudante de **Ciência da Computação** na Faci.  
-💻 Apaixonado por **desenvolvimento fullstack** e **análise de dados**.  
-🚀 Atualmente explorando projetos com **Big Data, Hadoop, PySpark, React, NestJS e Power BI**.  
+💻 Apaixonado por **desenvolvimento WEB fullstack**  
 
 ---
 
@@ -36,14 +35,10 @@
 
 ### Banco de Dados & Big Data
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop)
-![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark)
 
 ### Outros
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
 
 ---
 
