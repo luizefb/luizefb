@@ -1,76 +1,17 @@
-## Bem-vindo(a) ao perfil de Luiz 
+# 💫 Sobre mim:
+<img align="right" width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/38e84651-9b25-4bd2-a546-54e7c92c2f51" />
 
-<div>
-   <a href="https://github.com/luizefb">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizefb&layout=compact&langs_count=6&theme=solarized-light"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
- <br>
+Oi! Eu sou o **Luiz Eduardo** ✨  
+🎓 Estudante de **Ciências da Computação**  
+🌐 Focado em **desenvolvimento web**  
+💡 Curioso e sempre em busca de aprender novas tecnologias   
 
- # 👋 Olá, eu sou Luiz Eduardo  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizefb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizefb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luizeduardobaganha@gmail.com) 
 
-🎓 Estudante de **Ciência da Computação** na Faci.  
-💻 Apaixonado por **desenvolvimento WEB fullstack**  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=luizefb&theme=shadow_blue&hide_border=false)
+<img align="right" width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a22bca10-9da8-4776-8b55-34ffc9ae8c38" />
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Frontend
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
-
-### Banco de Dados & Big Data
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-
-### Outros
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-
----
-
-## 📌 Projetos em Destaque
-
-- 🔹 [**Sistema de Coleta de Lixo**](#) – Aplicação web/mobile para classificação e gestão de resíduos.  
-- 🔹 [**Dashboard de Vendas Petshop**](#) – Análise de vendas em **PySpark** com integração ao **Power BI**.  
-- 🔹 [**Aplicação Mobile com Mapas**](#) – Uso de **React Native Maps** e integração com geolocalização.  
-
-*(adicione os links reais dos repositórios quando quiser)*
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Luiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/SEU-LINKEDIN)  
-[![Gmail](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:SEU-EMAIL@gmail.com)
-
----
-✨ Sempre em busca de novos desafios para aprender e evoluir!
-
-  ### Minhas redes abaixo!!
- 
-<div> 
-  <a href="https://instagram.com/luizefb_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "luizeduardobaganha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luizefb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
