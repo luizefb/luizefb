@@ -2,7 +2,7 @@
 <img align="right" width="150" height="140" alt="image" src="https://github.com/user-attachments/assets/38e84651-9b25-4bd2-a546-54e7c92c2f51" />
 
 Oi! Eu sou o **Luiz Eduardo** ✨  
-🎓 Estudante de **Ciências da Computação**  
+🎓 Formado em **Ciências da Computação**  
 🌐 Focado em **desenvolvimento web**  
 💡 Curioso e sempre em busca de aprender novas tecnologias  
 
